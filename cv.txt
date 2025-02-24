@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is my cv
+=======
+This is my cv
+>>>>>>> 3e21915 (1st commit)
